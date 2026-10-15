@@ -3,7 +3,7 @@
 | Поле | Значення |
 | --- | --- |
 | Студент і підгрупа | Андрощук Роман, КН-41 |
-| Посилання на дошку | https://github.com/users/neRoma32/projects/1 |
+| Посилання на дошку | https://github.com/users/neRoma32/projects/2 |
 | Трекер | GitHub Projects |
 | Дати життя дошки | 2026-10-02 — 2026-10-16 |
 
