@@ -4,3 +4,8 @@ ST-02,Комендант корпусу,господарська служба,lo
 ST-03,Представник викладацького складу,факультет,high,low,supporter,keep_informed,Dev
 ST-04,Студентські організації та активісти,студрада,high,low,supporter,keep_informed,PM
 ST-05,Служба IT-підтримки та адміністрування,університет,low,low,neutral,monitor,Dev
+ST-06,PM (я),команда,high,high,supporter,manage_closely,PM
+ST-07,BA (бізнес-аналітик),команда,high,low,supporter,keep_informed,PM
+ST-08,Dev (розробник),команда,high,low,supporter,keep_informed,PM
+ST-09,QA (інженер з якості),команда,high,low,supporter,keep_informed,PM
+ST-10,Служба інформаційної безпеки,академія,low,high,neutral,keep_satisfied,PM
