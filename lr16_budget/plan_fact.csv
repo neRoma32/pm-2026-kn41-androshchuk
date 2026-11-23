@@ -1,1 +1,3 @@
 sprint,planned_points,actual_points,planned_cost_per_point,actual_cost_per_point,variance_pct,source_file,note
+1,20,21,6840.00,6514.29,-4.76,lr09_forecast/velocity.csv,Перевиконання плану завдяки чіткій декомпозиції історій авторизації та пошуку
+2,20,15,6840.00,9120.00,33.33,lr09_forecast/velocity.csv,Затримка специфікації обладнання та реалізація блокувань транзакцій у БД

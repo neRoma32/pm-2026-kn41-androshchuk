@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,240,520,https://jobs.dou.ua/salaries/,Управління строками бюджетом комунікаціями та ризиками
+BA,0.5,240,460,https://jobs.dou.ua/salaries/,Специфікація бізнес-вимог узгодження інтерфейсів та критеріїв DoR
+Dev,2.0,960,510,https://jobs.dou.ua/salaries/,Два розробники повного дня (100% + 100%) за ставкою Middle Fullstack
+QA,0.5,240,400,https://jobs.dou.ua/salaries/,Модульне інтеграційне та регресійне тестування і критерії DoD
